@@ -195,3 +195,10 @@ Plateformes d'apprentissage adaptées à tous les profils et besoins.
 ---
 
 ⭐ **N'hésitez pas à explorer mes repositories et à me contacter pour des collaborations !**
+
+
+ <footer style="text-align:center; font-size:0.9rem;">
+  © 2025 Yakoubi Yamina – CED & IARP PrettyhowQ  
+  | Tous droits réservés · All rights reserved · جميع الحقوق محفوظة · 版权所有  
+  <br> Conforme RGPD 🇪🇺 & LPD 🇨🇭 – Hébergement en Suisse – Données confidentielles protégées
+</footer> 
