@@ -190,7 +190,7 @@ Plateformes d'apprentissage adaptées à tous les profils et besoins.
 
 ### 💭 Citation
 
-> "L'innovation technologique n'a de sens que si elle sert l'humain et contribue à un monde plus inclusif et équitable."
+> "L'innovation technologique n'a de sens que si elle sert l'humain et contribue à un monde plus inclusif et équitable." de
 
 ---
 
@@ -200,5 +200,11 @@ Plateformes d'apprentissage adaptées à tous les profils et besoins.
  <footer style="text-align:center; font-size:0.9rem;">
   © 2025 Yakoubi Yamina – CED & IARP (PrettyhowQ)-CED BANK_Al-Aman -
   | Tous droits réservés · All rights reserved · جميع الحقوق محفوظة · 版权所有  
-  <br> Conforme RGPD 🇪🇺 & LPD 🇨🇭 – Hébergement en Suisse – Données confidentielles protégée
+  <br> Conforme RGPD 🇪🇺 & LPD 🇨🇭 – Hébergement en Suisse – Données confidentielles protégée. Projet confidentiel – Traçabilité numérique activée – Usage exclusif réservé à l’écosystème CED & PrettyhowQ  
+
+Ce projet, son contenu, son code, ses idées et ses visuels sont la propriété exclusive de Yakoubi Yamina.  
+Toute reproduction, diffusion, extraction, adaptation ou exploitation, totale ou partielle, sans autorisation écrite préalable,  
+est strictement interdite et fera l'objet de poursuites conformément au Code de la propriété intellectuelle.  
+
+📌 Version non publique – Dépôt en cours.
 </footer> 
